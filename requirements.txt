@@ -1,0 +1,5 @@
+ortools
+networkx
+matplotlib
+python-docx
+python-pptx
